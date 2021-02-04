@@ -40,12 +40,12 @@ var config = {
   blockchainExplorerOpts: {
     livenet: {
       provider: 'insight',
-      url: 'https://insight.rhodiumco.in',
+      url: 'https://insight.flowercoin.fund',
       apiPrefix: '/api'
     },
     testnet: {
       provider: 'insight',
-      url: 'https://insight.rhodiumco.in',
+      url: 'https://insight.flowercoin.fund',
       //url: 'http://localhost:3001',
       apiPrefix: '/api'
       // Multiple servers (in priority order)
